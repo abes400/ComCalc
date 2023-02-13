@@ -27,8 +27,8 @@ A simple GUI calculator application written in Python using the PyQt5 library
   - CMD: > ***MyVenv\Scripts\activate***
   - Terminal: $ ***source MyVenv/bin/activate***
 - Now, your prompt should look like this:
-  - CMD: > ***(MyVenv) C:\Users\admin\desktop\MyDirectory > ***
-  - Terminal: $ ***(MyVenv) ....... $ ***
+  - CMD: ***(MyVenv)*** ***C:\Users\admin\desktop\MyDirectory***  ***>***
+  - Terminal: ***(MyVenv).......*** ***$***
 - Type the following command:
   - CMD: > ***pip install -r requirements.txt***
   - Terminal: $ ***pip install -r requirements.txt***
