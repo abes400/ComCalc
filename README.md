@@ -1,6 +1,9 @@
 # ComCalc
 A simple GUI calculator application written in Python using the PyQt5 library
 
+# Waring
+This project is made for experimental purposes only, and it features the usage of the ***eval(str)*** function in ***Python*** which is ***NOT SECURE!*** So it is not recommended to use this application as a default one.
+
 # Getting Started
 - Click ***Code***, then click ***Download ZIP***
 - Unzip the files to a directory, keep an eye out on where the ***requirements.txt*** is
